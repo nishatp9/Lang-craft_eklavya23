@@ -80,7 +80,7 @@ The lexical analyzer is responsible for breaking these syntaxes into a series of
 ![INTERPRETER](images/interpreter.png)
 
 ## Language Reference
-Refer to this language reference - [CyPy](https://github.com/siddhip2004/Lang-craft_eklavya23/blob/nishat/Syntax.pdf)
+Refer to this language reference - [CyPy](https://github.com/nishatp9/Lang-craft_eklavya23/blob/master/Syntax.pdf)
 
 ## MakeFile
 Here we will use MakeFile to run and compile our programs more efficiently. It defines set of tasks to be executed resulting in a final executable binary - [Makefile](https://github.com/siddhip2004/Lang-craft_eklavya23/blob/siddhi/chp9/Makefile)
